@@ -1,0 +1,16 @@
+body{
+background-color: #000;
+
+}
+#ID1 a:link{
+cursor: pointer;
+text-color: #000;/*kolor linka*/
+}
+#ID1 a:visited{
+cursor: pointer;
+text-color: #6B6B6B;/*kolor odiwedzonego linka*/
+}
+#ID1 a:hover{
+cursor: pointer;
+text-color: #FF0505;/*kolor po najechaniu*/
+}
